@@ -1,0 +1,2030 @@
+RUN	RecordedSimulation	recordedsimulation	1576301279563	 	3.3.1
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280196
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280197
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280208
+USER	RecordedSimulation	2	START	1576301280184	1576301280184
+USER	RecordedSimulation	1	START	1576301280184	1576301280184
+USER	RecordedSimulation	3	END	1576301280207	1576301280214
+USER	RecordedSimulation	2	END	1576301280184	1576301280214
+USER	RecordedSimulation	1	END	1576301280184	1576301280215
+USER	RecordedSimulation	3	START	1576301280207	1576301280207
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280227
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280227
+USER	RecordedSimulation	4	END	1576301280217	1576301280227
+USER	RecordedSimulation	4	START	1576301280217	1576301280217
+USER	RecordedSimulation	5	START	1576301280227	1576301280227
+USER	RecordedSimulation	5	END	1576301280227	1576301280228
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280237
+USER	RecordedSimulation	6	START	1576301280237	1576301280237
+USER	RecordedSimulation	6	END	1576301280237	1576301280238
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280248
+USER	RecordedSimulation	7	START	1576301280247	1576301280247
+USER	RecordedSimulation	7	END	1576301280247	1576301280249
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280258
+USER	RecordedSimulation	8	START	1576301280257	1576301280257
+USER	RecordedSimulation	8	END	1576301280257	1576301280260
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280268
+USER	RecordedSimulation	9	START	1576301280268	1576301280268
+USER	RecordedSimulation	9	END	1576301280268	1576301280269
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280277
+USER	RecordedSimulation	10	START	1576301280277	1576301280277
+USER	RecordedSimulation	10	END	1576301280277	1576301280278
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280287
+USER	RecordedSimulation	11	START	1576301280287	1576301280287
+USER	RecordedSimulation	11	END	1576301280287	1576301280288
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280297
+USER	RecordedSimulation	12	START	1576301280297	1576301280297
+USER	RecordedSimulation	12	END	1576301280297	1576301280298
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280307
+USER	RecordedSimulation	13	START	1576301280307	1576301280307
+USER	RecordedSimulation	13	END	1576301280307	1576301280308
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280318
+USER	RecordedSimulation	14	START	1576301280317	1576301280317
+USER	RecordedSimulation	14	END	1576301280317	1576301280318
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280328
+USER	RecordedSimulation	15	START	1576301280328	1576301280328
+USER	RecordedSimulation	15	END	1576301280328	1576301280329
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280338
+USER	RecordedSimulation	16	START	1576301280337	1576301280337
+USER	RecordedSimulation	16	END	1576301280337	1576301280338
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280347
+USER	RecordedSimulation	17	START	1576301280347	1576301280347
+USER	RecordedSimulation	17	END	1576301280347	1576301280348
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280368
+USER	RecordedSimulation	18	START	1576301280367	1576301280367
+USER	RecordedSimulation	18	END	1576301280367	1576301280368
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280378
+USER	RecordedSimulation	19	START	1576301280377	1576301280377
+USER	RecordedSimulation	19	END	1576301280377	1576301280378
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280387
+USER	RecordedSimulation	20	START	1576301280387	1576301280387
+USER	RecordedSimulation	20	END	1576301280387	1576301280387
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280397
+USER	RecordedSimulation	21	START	1576301280397	1576301280397
+USER	RecordedSimulation	21	END	1576301280397	1576301280398
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280407
+USER	RecordedSimulation	22	START	1576301280407	1576301280407
+USER	RecordedSimulation	22	END	1576301280407	1576301280408
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280418
+USER	RecordedSimulation	23	START	1576301280417	1576301280417
+USER	RecordedSimulation	23	END	1576301280417	1576301280418
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280427
+USER	RecordedSimulation	24	START	1576301280427	1576301280427
+USER	RecordedSimulation	24	END	1576301280427	1576301280428
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280437
+USER	RecordedSimulation	25	START	1576301280437	1576301280437
+USER	RecordedSimulation	25	END	1576301280437	1576301280438
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280448
+USER	RecordedSimulation	26	START	1576301280447	1576301280447
+USER	RecordedSimulation	26	END	1576301280447	1576301280448
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280458
+USER	RecordedSimulation	27	START	1576301280457	1576301280457
+USER	RecordedSimulation	27	END	1576301280457	1576301280458
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280468
+USER	RecordedSimulation	28	START	1576301280468	1576301280468
+USER	RecordedSimulation	28	END	1576301280468	1576301280468
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280477
+USER	RecordedSimulation	29	START	1576301280477	1576301280477
+USER	RecordedSimulation	29	END	1576301280477	1576301280478
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280487
+USER	RecordedSimulation	30	START	1576301280487	1576301280487
+USER	RecordedSimulation	30	END	1576301280487	1576301280488
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280498
+USER	RecordedSimulation	31	START	1576301280497	1576301280497
+USER	RecordedSimulation	31	END	1576301280497	1576301280498
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280507
+USER	RecordedSimulation	32	START	1576301280507	1576301280507
+USER	RecordedSimulation	32	END	1576301280507	1576301280508
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280517
+USER	RecordedSimulation	33	START	1576301280517	1576301280517
+USER	RecordedSimulation	33	END	1576301280517	1576301280518
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280528
+USER	RecordedSimulation	34	START	1576301280527	1576301280527
+USER	RecordedSimulation	34	END	1576301280527	1576301280528
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280538
+USER	RecordedSimulation	35	START	1576301280537	1576301280537
+USER	RecordedSimulation	35	END	1576301280537	1576301280538
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280547
+USER	RecordedSimulation	36	START	1576301280547	1576301280547
+USER	RecordedSimulation	36	END	1576301280547	1576301280548
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280557
+USER	RecordedSimulation	37	START	1576301280557	1576301280557
+USER	RecordedSimulation	37	END	1576301280557	1576301280558
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280567
+USER	RecordedSimulation	38	START	1576301280567	1576301280567
+USER	RecordedSimulation	38	END	1576301280567	1576301280568
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280578
+USER	RecordedSimulation	39	START	1576301280577	1576301280577
+USER	RecordedSimulation	39	END	1576301280577	1576301280579
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280588
+USER	RecordedSimulation	40	START	1576301280587	1576301280587
+USER	RecordedSimulation	40	END	1576301280587	1576301280588
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280597
+USER	RecordedSimulation	41	START	1576301280597	1576301280597
+USER	RecordedSimulation	41	END	1576301280597	1576301280597
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280607
+USER	RecordedSimulation	42	START	1576301280607	1576301280607
+USER	RecordedSimulation	42	END	1576301280607	1576301280607
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280618
+USER	RecordedSimulation	43	START	1576301280617	1576301280617
+USER	RecordedSimulation	43	END	1576301280617	1576301280619
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280628
+USER	RecordedSimulation	44	START	1576301280627	1576301280627
+USER	RecordedSimulation	44	END	1576301280627	1576301280629
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280638
+USER	RecordedSimulation	45	START	1576301280638	1576301280638
+USER	RecordedSimulation	45	END	1576301280638	1576301280639
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280648
+USER	RecordedSimulation	46	START	1576301280647	1576301280647
+USER	RecordedSimulation	46	END	1576301280647	1576301280649
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280657
+USER	RecordedSimulation	47	START	1576301280657	1576301280657
+USER	RecordedSimulation	47	END	1576301280657	1576301280658
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280668
+USER	RecordedSimulation	48	START	1576301280667	1576301280667
+USER	RecordedSimulation	48	END	1576301280667	1576301280668
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280678
+USER	RecordedSimulation	49	START	1576301280677	1576301280677
+USER	RecordedSimulation	49	END	1576301280677	1576301280679
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280687
+USER	RecordedSimulation	50	START	1576301280687	1576301280687
+USER	RecordedSimulation	50	END	1576301280687	1576301280687
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280697
+USER	RecordedSimulation	51	START	1576301280697	1576301280697
+USER	RecordedSimulation	51	END	1576301280697	1576301280698
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280707
+USER	RecordedSimulation	52	START	1576301280707	1576301280707
+USER	RecordedSimulation	52	END	1576301280707	1576301280708
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280718
+USER	RecordedSimulation	53	START	1576301280717	1576301280717
+USER	RecordedSimulation	53	END	1576301280717	1576301280718
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280728
+USER	RecordedSimulation	54	START	1576301280727	1576301280727
+USER	RecordedSimulation	54	END	1576301280727	1576301280728
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280738
+USER	RecordedSimulation	55	START	1576301280737	1576301280737
+USER	RecordedSimulation	55	END	1576301280737	1576301280738
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280747
+USER	RecordedSimulation	56	START	1576301280747	1576301280747
+USER	RecordedSimulation	56	END	1576301280747	1576301280747
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280757
+USER	RecordedSimulation	57	START	1576301280757	1576301280757
+USER	RecordedSimulation	57	END	1576301280757	1576301280758
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280767
+USER	RecordedSimulation	58	START	1576301280767	1576301280767
+USER	RecordedSimulation	58	END	1576301280767	1576301280768
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280778
+USER	RecordedSimulation	59	START	1576301280777	1576301280777
+USER	RecordedSimulation	59	END	1576301280777	1576301280778
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280788
+USER	RecordedSimulation	60	START	1576301280787	1576301280787
+USER	RecordedSimulation	60	END	1576301280787	1576301280788
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280797
+USER	RecordedSimulation	61	START	1576301280797	1576301280797
+USER	RecordedSimulation	61	END	1576301280797	1576301280798
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280807
+USER	RecordedSimulation	62	START	1576301280807	1576301280807
+USER	RecordedSimulation	62	END	1576301280807	1576301280808
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280817
+USER	RecordedSimulation	63	START	1576301280817	1576301280817
+USER	RecordedSimulation	63	END	1576301280817	1576301280818
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280828
+USER	RecordedSimulation	64	START	1576301280827	1576301280827
+USER	RecordedSimulation	64	END	1576301280827	1576301280829
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280838
+USER	RecordedSimulation	65	START	1576301280837	1576301280837
+USER	RecordedSimulation	65	END	1576301280837	1576301280838
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280847
+USER	RecordedSimulation	66	START	1576301280847	1576301280847
+USER	RecordedSimulation	66	END	1576301280847	1576301280848
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280857
+USER	RecordedSimulation	67	START	1576301280857	1576301280857
+USER	RecordedSimulation	67	END	1576301280857	1576301280858
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280867
+USER	RecordedSimulation	68	START	1576301280867	1576301280867
+USER	RecordedSimulation	68	END	1576301280867	1576301280868
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280878
+USER	RecordedSimulation	69	START	1576301280877	1576301280877
+USER	RecordedSimulation	69	END	1576301280877	1576301280879
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280888
+USER	RecordedSimulation	70	START	1576301280887	1576301280887
+USER	RecordedSimulation	70	END	1576301280887	1576301280890
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280898
+USER	RecordedSimulation	71	START	1576301280897	1576301280897
+USER	RecordedSimulation	71	END	1576301280897	1576301280899
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280908
+USER	RecordedSimulation	72	START	1576301280907	1576301280907
+USER	RecordedSimulation	72	END	1576301280907	1576301280908
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280918
+USER	RecordedSimulation	73	START	1576301280917	1576301280917
+USER	RecordedSimulation	73	END	1576301280917	1576301280919
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280928
+USER	RecordedSimulation	74	START	1576301280928	1576301280928
+USER	RecordedSimulation	74	END	1576301280928	1576301280929
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280937
+USER	RecordedSimulation	75	START	1576301280937	1576301280937
+USER	RecordedSimulation	75	END	1576301280937	1576301280938
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280948
+USER	RecordedSimulation	76	START	1576301280947	1576301280947
+USER	RecordedSimulation	76	END	1576301280947	1576301280948
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280958
+USER	RecordedSimulation	77	START	1576301280957	1576301280957
+USER	RecordedSimulation	77	END	1576301280957	1576301280958
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280968
+USER	RecordedSimulation	78	START	1576301280967	1576301280967
+USER	RecordedSimulation	78	END	1576301280967	1576301280968
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280977
+USER	RecordedSimulation	79	START	1576301280977	1576301280977
+USER	RecordedSimulation	79	END	1576301280977	1576301280978
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280987
+USER	RecordedSimulation	80	START	1576301280987	1576301280987
+USER	RecordedSimulation	80	END	1576301280987	1576301280988
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301280998
+USER	RecordedSimulation	81	START	1576301280997	1576301280997
+USER	RecordedSimulation	81	END	1576301280997	1576301280998
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281008
+USER	RecordedSimulation	82	START	1576301281007	1576301281007
+USER	RecordedSimulation	82	END	1576301281007	1576301281008
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281018
+USER	RecordedSimulation	83	START	1576301281018	1576301281018
+USER	RecordedSimulation	83	END	1576301281018	1576301281019
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281027
+USER	RecordedSimulation	84	START	1576301281027	1576301281027
+USER	RecordedSimulation	84	END	1576301281027	1576301281028
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281037
+USER	RecordedSimulation	85	START	1576301281037	1576301281037
+USER	RecordedSimulation	85	END	1576301281037	1576301281038
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281048
+USER	RecordedSimulation	86	START	1576301281047	1576301281047
+USER	RecordedSimulation	86	END	1576301281047	1576301281048
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281058
+USER	RecordedSimulation	87	START	1576301281057	1576301281057
+USER	RecordedSimulation	87	END	1576301281057	1576301281059
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281067
+USER	RecordedSimulation	88	START	1576301281067	1576301281067
+USER	RecordedSimulation	88	END	1576301281067	1576301281068
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281077
+USER	RecordedSimulation	89	START	1576301281077	1576301281077
+USER	RecordedSimulation	89	END	1576301281077	1576301281078
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281087
+USER	RecordedSimulation	90	START	1576301281087	1576301281087
+USER	RecordedSimulation	90	END	1576301281087	1576301281088
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281098
+USER	RecordedSimulation	91	START	1576301281097	1576301281097
+USER	RecordedSimulation	91	END	1576301281097	1576301281099
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281108
+USER	RecordedSimulation	92	START	1576301281108	1576301281108
+USER	RecordedSimulation	92	END	1576301281108	1576301281109
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281117
+USER	RecordedSimulation	93	START	1576301281117	1576301281117
+USER	RecordedSimulation	93	END	1576301281117	1576301281118
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281128
+USER	RecordedSimulation	94	START	1576301281127	1576301281127
+USER	RecordedSimulation	94	END	1576301281127	1576301281129
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281138
+USER	RecordedSimulation	95	START	1576301281137	1576301281137
+USER	RecordedSimulation	95	END	1576301281137	1576301281139
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281148
+USER	RecordedSimulation	96	START	1576301281148	1576301281148
+USER	RecordedSimulation	96	END	1576301281148	1576301281149
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281158
+USER	RecordedSimulation	97	START	1576301281157	1576301281157
+USER	RecordedSimulation	97	END	1576301281157	1576301281159
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281168
+USER	RecordedSimulation	98	START	1576301281167	1576301281167
+USER	RecordedSimulation	98	END	1576301281167	1576301281168
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281178
+USER	RecordedSimulation	99	START	1576301281177	1576301281177
+USER	RecordedSimulation	99	END	1576301281177	1576301281178
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281188
+USER	RecordedSimulation	100	START	1576301281187	1576301281187
+USER	RecordedSimulation	100	END	1576301281187	1576301281188
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281198
+USER	RecordedSimulation	101	START	1576301281197	1576301281197
+USER	RecordedSimulation	101	END	1576301281197	1576301281199
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281207
+USER	RecordedSimulation	102	START	1576301281207	1576301281207
+USER	RecordedSimulation	102	END	1576301281207	1576301281208
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281218
+USER	RecordedSimulation	103	START	1576301281217	1576301281217
+USER	RecordedSimulation	103	END	1576301281217	1576301281218
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281228
+USER	RecordedSimulation	104	START	1576301281227	1576301281227
+USER	RecordedSimulation	104	END	1576301281227	1576301281229
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281238
+USER	RecordedSimulation	105	START	1576301281238	1576301281238
+USER	RecordedSimulation	105	END	1576301281238	1576301281238
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281247
+USER	RecordedSimulation	106	START	1576301281247	1576301281247
+USER	RecordedSimulation	106	END	1576301281247	1576301281248
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281257
+USER	RecordedSimulation	107	START	1576301281257	1576301281257
+USER	RecordedSimulation	107	END	1576301281257	1576301281258
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281268
+USER	RecordedSimulation	108	START	1576301281267	1576301281267
+USER	RecordedSimulation	108	END	1576301281267	1576301281268
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281278
+USER	RecordedSimulation	109	START	1576301281277	1576301281277
+USER	RecordedSimulation	109	END	1576301281277	1576301281278
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281288
+USER	RecordedSimulation	110	START	1576301281287	1576301281287
+USER	RecordedSimulation	110	END	1576301281287	1576301281288
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281297
+USER	RecordedSimulation	111	START	1576301281297	1576301281297
+USER	RecordedSimulation	111	END	1576301281297	1576301281298
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281307
+USER	RecordedSimulation	112	START	1576301281307	1576301281307
+USER	RecordedSimulation	112	END	1576301281307	1576301281308
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281318
+USER	RecordedSimulation	113	START	1576301281317	1576301281317
+USER	RecordedSimulation	113	END	1576301281317	1576301281318
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281338
+USER	RecordedSimulation	114	START	1576301281337	1576301281337
+USER	RecordedSimulation	114	END	1576301281337	1576301281339
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281347
+USER	RecordedSimulation	115	START	1576301281347	1576301281347
+USER	RecordedSimulation	115	END	1576301281347	1576301281348
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281358
+USER	RecordedSimulation	116	START	1576301281357	1576301281357
+USER	RecordedSimulation	116	END	1576301281357	1576301281358
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281368
+USER	RecordedSimulation	117	START	1576301281367	1576301281367
+USER	RecordedSimulation	117	END	1576301281367	1576301281368
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281378
+USER	RecordedSimulation	118	START	1576301281377	1576301281377
+USER	RecordedSimulation	118	END	1576301281377	1576301281378
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281388
+USER	RecordedSimulation	119	START	1576301281388	1576301281388
+USER	RecordedSimulation	119	END	1576301281388	1576301281388
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281398
+USER	RecordedSimulation	120	START	1576301281397	1576301281397
+USER	RecordedSimulation	120	END	1576301281397	1576301281399
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281408
+USER	RecordedSimulation	121	START	1576301281407	1576301281407
+USER	RecordedSimulation	121	END	1576301281407	1576301281408
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281418
+USER	RecordedSimulation	122	START	1576301281417	1576301281417
+USER	RecordedSimulation	122	END	1576301281417	1576301281419
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281428
+USER	RecordedSimulation	123	START	1576301281428	1576301281428
+USER	RecordedSimulation	123	END	1576301281428	1576301281429
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281437
+USER	RecordedSimulation	124	START	1576301281437	1576301281437
+USER	RecordedSimulation	124	END	1576301281437	1576301281438
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281448
+USER	RecordedSimulation	125	START	1576301281447	1576301281447
+USER	RecordedSimulation	125	END	1576301281447	1576301281448
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281458
+USER	RecordedSimulation	126	START	1576301281457	1576301281457
+USER	RecordedSimulation	126	END	1576301281457	1576301281459
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281468
+USER	RecordedSimulation	127	START	1576301281468	1576301281468
+USER	RecordedSimulation	127	END	1576301281468	1576301281469
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281478
+USER	RecordedSimulation	128	START	1576301281477	1576301281477
+USER	RecordedSimulation	128	END	1576301281477	1576301281479
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281488
+USER	RecordedSimulation	129	START	1576301281487	1576301281487
+USER	RecordedSimulation	129	END	1576301281487	1576301281488
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281498
+USER	RecordedSimulation	130	START	1576301281497	1576301281497
+USER	RecordedSimulation	130	END	1576301281497	1576301281499
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281507
+USER	RecordedSimulation	131	START	1576301281507	1576301281507
+USER	RecordedSimulation	131	END	1576301281507	1576301281508
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281518
+USER	RecordedSimulation	132	START	1576301281517	1576301281517
+USER	RecordedSimulation	132	END	1576301281517	1576301281519
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281528
+USER	RecordedSimulation	133	START	1576301281527	1576301281527
+USER	RecordedSimulation	133	END	1576301281527	1576301281529
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281538
+USER	RecordedSimulation	134	START	1576301281538	1576301281538
+USER	RecordedSimulation	134	END	1576301281538	1576301281539
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281547
+USER	RecordedSimulation	135	START	1576301281547	1576301281547
+USER	RecordedSimulation	135	END	1576301281547	1576301281548
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281558
+USER	RecordedSimulation	136	START	1576301281557	1576301281557
+USER	RecordedSimulation	136	END	1576301281557	1576301281558
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281568
+USER	RecordedSimulation	137	START	1576301281567	1576301281567
+USER	RecordedSimulation	137	END	1576301281567	1576301281568
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281578
+USER	RecordedSimulation	138	START	1576301281577	1576301281577
+USER	RecordedSimulation	138	END	1576301281577	1576301281579
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281587
+USER	RecordedSimulation	139	START	1576301281587	1576301281587
+USER	RecordedSimulation	139	END	1576301281587	1576301281588
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281598
+USER	RecordedSimulation	140	START	1576301281597	1576301281597
+USER	RecordedSimulation	140	END	1576301281597	1576301281599
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281608
+USER	RecordedSimulation	141	START	1576301281607	1576301281607
+USER	RecordedSimulation	141	END	1576301281607	1576301281608
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281618
+USER	RecordedSimulation	142	START	1576301281617	1576301281617
+USER	RecordedSimulation	142	END	1576301281617	1576301281619
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281627
+USER	RecordedSimulation	143	START	1576301281627	1576301281627
+USER	RecordedSimulation	143	END	1576301281627	1576301281628
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281638
+USER	RecordedSimulation	144	START	1576301281637	1576301281637
+USER	RecordedSimulation	144	END	1576301281637	1576301281638
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281648
+USER	RecordedSimulation	145	START	1576301281647	1576301281647
+USER	RecordedSimulation	145	END	1576301281647	1576301281649
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281658
+USER	RecordedSimulation	146	START	1576301281658	1576301281658
+USER	RecordedSimulation	146	END	1576301281658	1576301281659
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281667
+USER	RecordedSimulation	147	START	1576301281667	1576301281667
+USER	RecordedSimulation	147	END	1576301281667	1576301281668
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281678
+USER	RecordedSimulation	148	START	1576301281677	1576301281677
+USER	RecordedSimulation	148	END	1576301281677	1576301281679
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281688
+USER	RecordedSimulation	149	START	1576301281687	1576301281687
+USER	RecordedSimulation	149	END	1576301281687	1576301281689
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281699
+USER	RecordedSimulation	150	START	1576301281698	1576301281698
+USER	RecordedSimulation	150	END	1576301281698	1576301281700
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281708
+USER	RecordedSimulation	151	START	1576301281707	1576301281707
+USER	RecordedSimulation	151	END	1576301281707	1576301281708
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281718
+USER	RecordedSimulation	152	START	1576301281717	1576301281717
+USER	RecordedSimulation	152	END	1576301281717	1576301281719
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281728
+USER	RecordedSimulation	153	START	1576301281727	1576301281727
+USER	RecordedSimulation	153	END	1576301281727	1576301281729
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281738
+USER	RecordedSimulation	154	START	1576301281738	1576301281738
+USER	RecordedSimulation	154	END	1576301281738	1576301281739
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281748
+USER	RecordedSimulation	155	START	1576301281747	1576301281747
+USER	RecordedSimulation	155	END	1576301281747	1576301281749
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281758
+USER	RecordedSimulation	156	START	1576301281757	1576301281757
+USER	RecordedSimulation	156	END	1576301281757	1576301281759
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281768
+USER	RecordedSimulation	157	START	1576301281767	1576301281767
+USER	RecordedSimulation	157	END	1576301281767	1576301281769
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281777
+USER	RecordedSimulation	158	START	1576301281777	1576301281777
+USER	RecordedSimulation	158	END	1576301281777	1576301281778
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281787
+USER	RecordedSimulation	159	START	1576301281787	1576301281787
+USER	RecordedSimulation	159	END	1576301281787	1576301281788
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281797
+USER	RecordedSimulation	160	START	1576301281797	1576301281797
+USER	RecordedSimulation	160	END	1576301281797	1576301281798
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281808
+USER	RecordedSimulation	161	START	1576301281807	1576301281807
+USER	RecordedSimulation	161	END	1576301281807	1576301281808
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281818
+USER	RecordedSimulation	162	START	1576301281818	1576301281818
+USER	RecordedSimulation	162	END	1576301281818	1576301281818
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281827
+USER	RecordedSimulation	163	START	1576301281827	1576301281827
+USER	RecordedSimulation	163	END	1576301281827	1576301281828
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281837
+USER	RecordedSimulation	164	START	1576301281837	1576301281837
+USER	RecordedSimulation	164	END	1576301281837	1576301281838
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281848
+USER	RecordedSimulation	165	START	1576301281847	1576301281847
+USER	RecordedSimulation	165	END	1576301281847	1576301281848
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281858
+USER	RecordedSimulation	166	START	1576301281857	1576301281857
+USER	RecordedSimulation	166	END	1576301281857	1576301281858
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281867
+USER	RecordedSimulation	167	START	1576301281867	1576301281867
+USER	RecordedSimulation	167	END	1576301281867	1576301281867
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281877
+USER	RecordedSimulation	168	START	1576301281877	1576301281877
+USER	RecordedSimulation	168	END	1576301281877	1576301281878
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281888
+USER	RecordedSimulation	169	START	1576301281887	1576301281887
+USER	RecordedSimulation	169	END	1576301281887	1576301281888
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281898
+USER	RecordedSimulation	170	START	1576301281897	1576301281897
+USER	RecordedSimulation	170	END	1576301281897	1576301281898
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281908
+USER	RecordedSimulation	171	START	1576301281907	1576301281907
+USER	RecordedSimulation	171	END	1576301281907	1576301281908
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281917
+USER	RecordedSimulation	172	START	1576301281917	1576301281917
+USER	RecordedSimulation	172	END	1576301281917	1576301281918
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281927
+USER	RecordedSimulation	173	START	1576301281927	1576301281927
+USER	RecordedSimulation	173	END	1576301281927	1576301281928
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281937
+USER	RecordedSimulation	174	START	1576301281937	1576301281937
+USER	RecordedSimulation	174	END	1576301281937	1576301281938
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281948
+USER	RecordedSimulation	175	START	1576301281947	1576301281947
+USER	RecordedSimulation	175	END	1576301281947	1576301281949
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281958
+USER	RecordedSimulation	176	START	1576301281958	1576301281958
+USER	RecordedSimulation	176	END	1576301281958	1576301281959
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281967
+USER	RecordedSimulation	177	START	1576301281967	1576301281967
+USER	RecordedSimulation	177	END	1576301281967	1576301281968
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281978
+USER	RecordedSimulation	178	START	1576301281977	1576301281977
+USER	RecordedSimulation	178	END	1576301281977	1576301281979
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281988
+USER	RecordedSimulation	179	START	1576301281987	1576301281987
+USER	RecordedSimulation	179	END	1576301281987	1576301281989
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301281998
+USER	RecordedSimulation	180	START	1576301281998	1576301281998
+USER	RecordedSimulation	180	END	1576301281998	1576301281999
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282007
+USER	RecordedSimulation	181	START	1576301282007	1576301282007
+USER	RecordedSimulation	181	END	1576301282007	1576301282008
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282018
+USER	RecordedSimulation	182	START	1576301282017	1576301282017
+USER	RecordedSimulation	182	END	1576301282017	1576301282018
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282028
+USER	RecordedSimulation	183	START	1576301282027	1576301282027
+USER	RecordedSimulation	183	END	1576301282027	1576301282029
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282038
+USER	RecordedSimulation	184	START	1576301282038	1576301282038
+USER	RecordedSimulation	184	END	1576301282038	1576301282039
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282047
+USER	RecordedSimulation	185	START	1576301282047	1576301282047
+USER	RecordedSimulation	185	END	1576301282047	1576301282048
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282058
+USER	RecordedSimulation	186	START	1576301282057	1576301282057
+USER	RecordedSimulation	186	END	1576301282057	1576301282058
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282068
+USER	RecordedSimulation	187	START	1576301282067	1576301282067
+USER	RecordedSimulation	187	END	1576301282067	1576301282068
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282078
+USER	RecordedSimulation	188	START	1576301282077	1576301282077
+USER	RecordedSimulation	188	END	1576301282077	1576301282079
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282087
+USER	RecordedSimulation	189	START	1576301282087	1576301282087
+USER	RecordedSimulation	189	END	1576301282087	1576301282088
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282097
+USER	RecordedSimulation	190	START	1576301282097	1576301282097
+USER	RecordedSimulation	190	END	1576301282097	1576301282098
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282108
+USER	RecordedSimulation	191	START	1576301282107	1576301282107
+USER	RecordedSimulation	191	END	1576301282107	1576301282109
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282118
+USER	RecordedSimulation	192	START	1576301282117	1576301282117
+USER	RecordedSimulation	192	END	1576301282117	1576301282119
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282127
+USER	RecordedSimulation	193	START	1576301282127	1576301282127
+USER	RecordedSimulation	193	END	1576301282127	1576301282128
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282137
+USER	RecordedSimulation	194	START	1576301282137	1576301282137
+USER	RecordedSimulation	194	END	1576301282137	1576301282138
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282148
+USER	RecordedSimulation	195	START	1576301282147	1576301282147
+USER	RecordedSimulation	195	END	1576301282147	1576301282148
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282158
+USER	RecordedSimulation	196	START	1576301282157	1576301282157
+USER	RecordedSimulation	196	END	1576301282157	1576301282159
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282168
+USER	RecordedSimulation	197	START	1576301282168	1576301282168
+USER	RecordedSimulation	197	END	1576301282168	1576301282168
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282177
+USER	RecordedSimulation	198	START	1576301282177	1576301282177
+USER	RecordedSimulation	198	END	1576301282177	1576301282177
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282187
+USER	RecordedSimulation	199	START	1576301282187	1576301282187
+USER	RecordedSimulation	199	END	1576301282187	1576301282188
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282198
+USER	RecordedSimulation	200	START	1576301282197	1576301282197
+USER	RecordedSimulation	200	END	1576301282197	1576301282198
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282208
+USER	RecordedSimulation	201	START	1576301282208	1576301282208
+USER	RecordedSimulation	201	END	1576301282208	1576301282208
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282217
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282217
+USER	RecordedSimulation	203	START	1576301282217	1576301282217
+USER	RecordedSimulation	202	START	1576301282217	1576301282217
+USER	RecordedSimulation	202	END	1576301282217	1576301282217
+USER	RecordedSimulation	203	END	1576301282217	1576301282217
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282227
+USER	RecordedSimulation	204	START	1576301282227	1576301282227
+USER	RecordedSimulation	204	END	1576301282227	1576301282228
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282237
+USER	RecordedSimulation	205	START	1576301282237	1576301282237
+USER	RecordedSimulation	205	END	1576301282237	1576301282238
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282248
+USER	RecordedSimulation	206	START	1576301282247	1576301282247
+USER	RecordedSimulation	206	END	1576301282247	1576301282248
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282258
+USER	RecordedSimulation	207	START	1576301282258	1576301282258
+USER	RecordedSimulation	207	END	1576301282258	1576301282258
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282267
+USER	RecordedSimulation	208	START	1576301282267	1576301282267
+USER	RecordedSimulation	208	END	1576301282267	1576301282267
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282277
+USER	RecordedSimulation	209	START	1576301282277	1576301282277
+USER	RecordedSimulation	209	END	1576301282277	1576301282278
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282288
+USER	RecordedSimulation	210	START	1576301282287	1576301282287
+USER	RecordedSimulation	210	END	1576301282287	1576301282288
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282298
+USER	RecordedSimulation	211	START	1576301282297	1576301282297
+USER	RecordedSimulation	211	END	1576301282297	1576301282298
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282307
+USER	RecordedSimulation	212	START	1576301282307	1576301282307
+USER	RecordedSimulation	212	END	1576301282307	1576301282308
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282318
+USER	RecordedSimulation	213	START	1576301282317	1576301282317
+USER	RecordedSimulation	213	END	1576301282317	1576301282319
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282328
+USER	RecordedSimulation	214	START	1576301282327	1576301282327
+USER	RecordedSimulation	214	END	1576301282327	1576301282328
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282338
+USER	RecordedSimulation	215	START	1576301282337	1576301282337
+USER	RecordedSimulation	215	END	1576301282337	1576301282339
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282348
+USER	RecordedSimulation	216	START	1576301282348	1576301282348
+USER	RecordedSimulation	216	END	1576301282348	1576301282349
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282357
+USER	RecordedSimulation	217	START	1576301282357	1576301282357
+USER	RecordedSimulation	217	END	1576301282357	1576301282358
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282368
+USER	RecordedSimulation	218	START	1576301282367	1576301282367
+USER	RecordedSimulation	218	END	1576301282367	1576301282368
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282378
+USER	RecordedSimulation	219	START	1576301282377	1576301282377
+USER	RecordedSimulation	219	END	1576301282377	1576301282378
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282388
+USER	RecordedSimulation	220	START	1576301282387	1576301282387
+USER	RecordedSimulation	220	END	1576301282387	1576301282388
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282397
+USER	RecordedSimulation	221	START	1576301282397	1576301282397
+USER	RecordedSimulation	221	END	1576301282397	1576301282397
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282407
+USER	RecordedSimulation	222	START	1576301282407	1576301282407
+USER	RecordedSimulation	222	END	1576301282407	1576301282407
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282417
+USER	RecordedSimulation	223	START	1576301282417	1576301282417
+USER	RecordedSimulation	223	END	1576301282417	1576301282418
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282427
+USER	RecordedSimulation	224	START	1576301282427	1576301282427
+USER	RecordedSimulation	224	END	1576301282427	1576301282428
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282438
+USER	RecordedSimulation	225	START	1576301282437	1576301282437
+USER	RecordedSimulation	225	END	1576301282437	1576301282438
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282448
+USER	RecordedSimulation	226	START	1576301282448	1576301282448
+USER	RecordedSimulation	226	END	1576301282448	1576301282448
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282457
+USER	RecordedSimulation	227	START	1576301282457	1576301282457
+USER	RecordedSimulation	227	END	1576301282457	1576301282458
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282467
+USER	RecordedSimulation	228	START	1576301282467	1576301282467
+USER	RecordedSimulation	228	END	1576301282467	1576301282468
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282478
+USER	RecordedSimulation	229	START	1576301282477	1576301282477
+USER	RecordedSimulation	229	END	1576301282477	1576301282478
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282488
+USER	RecordedSimulation	230	START	1576301282487	1576301282487
+USER	RecordedSimulation	230	END	1576301282487	1576301282488
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282498
+USER	RecordedSimulation	231	START	1576301282498	1576301282498
+USER	RecordedSimulation	231	END	1576301282498	1576301282499
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282507
+USER	RecordedSimulation	232	START	1576301282507	1576301282507
+USER	RecordedSimulation	232	END	1576301282507	1576301282508
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282518
+USER	RecordedSimulation	233	START	1576301282517	1576301282517
+USER	RecordedSimulation	233	END	1576301282517	1576301282518
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282528
+USER	RecordedSimulation	234	START	1576301282527	1576301282527
+USER	RecordedSimulation	234	END	1576301282527	1576301282528
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282538
+USER	RecordedSimulation	235	START	1576301282537	1576301282537
+USER	RecordedSimulation	235	END	1576301282537	1576301282538
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282548
+USER	RecordedSimulation	236	START	1576301282548	1576301282548
+USER	RecordedSimulation	236	END	1576301282548	1576301282549
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282558
+USER	RecordedSimulation	237	START	1576301282557	1576301282557
+USER	RecordedSimulation	237	END	1576301282557	1576301282558
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282568
+USER	RecordedSimulation	238	START	1576301282567	1576301282567
+USER	RecordedSimulation	238	END	1576301282567	1576301282569
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282578
+USER	RecordedSimulation	239	START	1576301282577	1576301282577
+USER	RecordedSimulation	239	END	1576301282577	1576301282579
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282587
+USER	RecordedSimulation	240	START	1576301282587	1576301282587
+USER	RecordedSimulation	240	END	1576301282587	1576301282588
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282598
+USER	RecordedSimulation	241	START	1576301282597	1576301282597
+USER	RecordedSimulation	241	END	1576301282597	1576301282599
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282608
+USER	RecordedSimulation	242	START	1576301282607	1576301282607
+USER	RecordedSimulation	242	END	1576301282607	1576301282609
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282618
+USER	RecordedSimulation	243	START	1576301282618	1576301282618
+USER	RecordedSimulation	243	END	1576301282618	1576301282619
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282628
+USER	RecordedSimulation	244	START	1576301282627	1576301282627
+USER	RecordedSimulation	244	END	1576301282627	1576301282628
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282637
+USER	RecordedSimulation	245	START	1576301282637	1576301282637
+USER	RecordedSimulation	245	END	1576301282637	1576301282638
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282648
+USER	RecordedSimulation	246	START	1576301282647	1576301282647
+USER	RecordedSimulation	246	END	1576301282647	1576301282648
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282658
+USER	RecordedSimulation	247	START	1576301282658	1576301282658
+USER	RecordedSimulation	247	END	1576301282658	1576301282658
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282667
+USER	RecordedSimulation	248	START	1576301282667	1576301282667
+USER	RecordedSimulation	248	END	1576301282667	1576301282668
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282677
+USER	RecordedSimulation	249	START	1576301282677	1576301282677
+USER	RecordedSimulation	249	END	1576301282677	1576301282678
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282688
+USER	RecordedSimulation	250	START	1576301282687	1576301282687
+USER	RecordedSimulation	250	END	1576301282687	1576301282688
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282698
+USER	RecordedSimulation	251	START	1576301282697	1576301282697
+USER	RecordedSimulation	251	END	1576301282697	1576301282698
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282707
+USER	RecordedSimulation	252	START	1576301282707	1576301282707
+USER	RecordedSimulation	252	END	1576301282707	1576301282708
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282717
+USER	RecordedSimulation	253	START	1576301282717	1576301282717
+USER	RecordedSimulation	253	END	1576301282717	1576301282718
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282728
+USER	RecordedSimulation	254	START	1576301282727	1576301282727
+USER	RecordedSimulation	254	END	1576301282727	1576301282728
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282738
+USER	RecordedSimulation	255	START	1576301282737	1576301282737
+USER	RecordedSimulation	255	END	1576301282737	1576301282739
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282749
+USER	RecordedSimulation	256	START	1576301282748	1576301282748
+USER	RecordedSimulation	256	END	1576301282748	1576301282750
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282758
+USER	RecordedSimulation	257	END	1576301282757	1576301282759
+USER	RecordedSimulation	257	START	1576301282757	1576301282757
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282768
+USER	RecordedSimulation	258	START	1576301282767	1576301282767
+USER	RecordedSimulation	258	END	1576301282767	1576301282769
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282778
+USER	RecordedSimulation	259	START	1576301282777	1576301282777
+USER	RecordedSimulation	259	END	1576301282777	1576301282778
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282788
+USER	RecordedSimulation	260	START	1576301282788	1576301282788
+USER	RecordedSimulation	260	END	1576301282788	1576301282789
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282797
+USER	RecordedSimulation	261	START	1576301282797	1576301282797
+USER	RecordedSimulation	261	END	1576301282797	1576301282798
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282807
+USER	RecordedSimulation	262	START	1576301282807	1576301282807
+USER	RecordedSimulation	262	END	1576301282807	1576301282808
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282818
+USER	RecordedSimulation	263	START	1576301282817	1576301282817
+USER	RecordedSimulation	263	END	1576301282817	1576301282818
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282828
+USER	RecordedSimulation	264	START	1576301282827	1576301282827
+USER	RecordedSimulation	264	END	1576301282827	1576301282828
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282838
+USER	RecordedSimulation	265	START	1576301282838	1576301282838
+USER	RecordedSimulation	265	END	1576301282838	1576301282839
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282847
+USER	RecordedSimulation	266	START	1576301282847	1576301282847
+USER	RecordedSimulation	266	END	1576301282847	1576301282848
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282857
+USER	RecordedSimulation	267	START	1576301282857	1576301282857
+USER	RecordedSimulation	267	END	1576301282857	1576301282858
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282868
+USER	RecordedSimulation	268	START	1576301282867	1576301282867
+USER	RecordedSimulation	268	END	1576301282867	1576301282868
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282878
+USER	RecordedSimulation	269	START	1576301282877	1576301282877
+USER	RecordedSimulation	269	END	1576301282877	1576301282878
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282888
+USER	RecordedSimulation	270	START	1576301282887	1576301282887
+USER	RecordedSimulation	270	END	1576301282887	1576301282888
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282897
+USER	RecordedSimulation	271	START	1576301282897	1576301282897
+USER	RecordedSimulation	271	END	1576301282897	1576301282898
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282907
+USER	RecordedSimulation	272	START	1576301282907	1576301282907
+USER	RecordedSimulation	272	END	1576301282907	1576301282908
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282918
+USER	RecordedSimulation	273	START	1576301282917	1576301282917
+USER	RecordedSimulation	273	END	1576301282917	1576301282918
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282928
+USER	RecordedSimulation	274	START	1576301282927	1576301282927
+USER	RecordedSimulation	274	END	1576301282927	1576301282928
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282937
+USER	RecordedSimulation	275	START	1576301282937	1576301282937
+USER	RecordedSimulation	275	END	1576301282937	1576301282937
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282947
+USER	RecordedSimulation	276	START	1576301282947	1576301282947
+USER	RecordedSimulation	276	END	1576301282947	1576301282948
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282957
+USER	RecordedSimulation	277	START	1576301282957	1576301282957
+USER	RecordedSimulation	277	END	1576301282957	1576301282958
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282968
+USER	RecordedSimulation	278	START	1576301282967	1576301282967
+USER	RecordedSimulation	278	END	1576301282967	1576301282968
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282978
+USER	RecordedSimulation	279	START	1576301282977	1576301282977
+USER	RecordedSimulation	279	END	1576301282977	1576301282978
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282987
+USER	RecordedSimulation	280	START	1576301282987	1576301282987
+USER	RecordedSimulation	280	END	1576301282987	1576301282988
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301282997
+USER	RecordedSimulation	281	START	1576301282997	1576301282997
+USER	RecordedSimulation	281	END	1576301282997	1576301282998
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283008
+USER	RecordedSimulation	282	START	1576301283007	1576301283007
+USER	RecordedSimulation	282	END	1576301283007	1576301283008
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283018
+USER	RecordedSimulation	283	START	1576301283017	1576301283017
+USER	RecordedSimulation	283	END	1576301283017	1576301283019
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283028
+USER	RecordedSimulation	284	START	1576301283028	1576301283028
+USER	RecordedSimulation	284	END	1576301283028	1576301283029
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283038
+USER	RecordedSimulation	285	START	1576301283037	1576301283037
+USER	RecordedSimulation	285	END	1576301283037	1576301283038
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283048
+USER	RecordedSimulation	286	START	1576301283047	1576301283047
+USER	RecordedSimulation	286	END	1576301283047	1576301283048
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283058
+USER	RecordedSimulation	287	START	1576301283057	1576301283057
+USER	RecordedSimulation	287	END	1576301283057	1576301283058
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283068
+USER	RecordedSimulation	288	START	1576301283068	1576301283068
+USER	RecordedSimulation	288	END	1576301283068	1576301283069
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283077
+USER	RecordedSimulation	289	START	1576301283077	1576301283077
+USER	RecordedSimulation	289	END	1576301283077	1576301283078
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283087
+USER	RecordedSimulation	290	START	1576301283087	1576301283087
+USER	RecordedSimulation	290	END	1576301283087	1576301283088
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283098
+USER	RecordedSimulation	291	START	1576301283097	1576301283097
+USER	RecordedSimulation	291	END	1576301283097	1576301283099
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283108
+USER	RecordedSimulation	292	START	1576301283107	1576301283107
+USER	RecordedSimulation	292	END	1576301283107	1576301283109
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283117
+USER	RecordedSimulation	293	START	1576301283117	1576301283117
+USER	RecordedSimulation	293	END	1576301283117	1576301283118
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283127
+USER	RecordedSimulation	294	START	1576301283127	1576301283127
+USER	RecordedSimulation	294	END	1576301283127	1576301283128
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283138
+USER	RecordedSimulation	295	START	1576301283137	1576301283137
+USER	RecordedSimulation	295	END	1576301283137	1576301283139
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283148
+USER	RecordedSimulation	296	START	1576301283147	1576301283147
+USER	RecordedSimulation	296	END	1576301283147	1576301283149
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283157
+USER	RecordedSimulation	297	START	1576301283157	1576301283157
+USER	RecordedSimulation	297	END	1576301283157	1576301283158
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283168
+USER	RecordedSimulation	298	START	1576301283167	1576301283167
+USER	RecordedSimulation	298	END	1576301283167	1576301283169
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283178
+USER	RecordedSimulation	299	START	1576301283177	1576301283177
+USER	RecordedSimulation	299	END	1576301283177	1576301283178
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283188
+USER	RecordedSimulation	300	START	1576301283187	1576301283187
+USER	RecordedSimulation	300	END	1576301283187	1576301283189
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283197
+USER	RecordedSimulation	301	START	1576301283197	1576301283197
+USER	RecordedSimulation	301	END	1576301283197	1576301283198
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283207
+USER	RecordedSimulation	302	START	1576301283207	1576301283207
+USER	RecordedSimulation	302	END	1576301283207	1576301283208
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283218
+USER	RecordedSimulation	303	START	1576301283217	1576301283217
+USER	RecordedSimulation	303	END	1576301283217	1576301283219
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283228
+USER	RecordedSimulation	304	START	1576301283228	1576301283228
+USER	RecordedSimulation	304	END	1576301283228	1576301283229
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283237
+USER	RecordedSimulation	305	START	1576301283237	1576301283237
+USER	RecordedSimulation	305	END	1576301283237	1576301283238
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283248
+USER	RecordedSimulation	306	START	1576301283247	1576301283247
+USER	RecordedSimulation	306	END	1576301283247	1576301283249
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283258
+USER	RecordedSimulation	307	START	1576301283257	1576301283257
+USER	RecordedSimulation	307	END	1576301283257	1576301283259
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283268
+USER	RecordedSimulation	308	START	1576301283268	1576301283268
+USER	RecordedSimulation	308	END	1576301283268	1576301283269
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283277
+USER	RecordedSimulation	309	START	1576301283277	1576301283277
+USER	RecordedSimulation	309	END	1576301283277	1576301283278
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283288
+USER	RecordedSimulation	310	START	1576301283287	1576301283287
+USER	RecordedSimulation	310	END	1576301283287	1576301283288
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283298
+USER	RecordedSimulation	311	START	1576301283297	1576301283297
+USER	RecordedSimulation	311	END	1576301283297	1576301283299
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283308
+USER	RecordedSimulation	312	START	1576301283307	1576301283307
+USER	RecordedSimulation	312	END	1576301283307	1576301283309
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283317
+USER	RecordedSimulation	313	START	1576301283317	1576301283317
+USER	RecordedSimulation	313	END	1576301283317	1576301283318
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283327
+USER	RecordedSimulation	314	START	1576301283327	1576301283327
+USER	RecordedSimulation	314	END	1576301283327	1576301283328
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283338
+USER	RecordedSimulation	315	START	1576301283337	1576301283337
+USER	RecordedSimulation	315	END	1576301283337	1576301283339
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283348
+USER	RecordedSimulation	316	START	1576301283347	1576301283347
+USER	RecordedSimulation	316	END	1576301283347	1576301283349
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283357
+USER	RecordedSimulation	317	START	1576301283357	1576301283357
+USER	RecordedSimulation	317	END	1576301283357	1576301283358
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283368
+USER	RecordedSimulation	318	START	1576301283367	1576301283367
+USER	RecordedSimulation	318	END	1576301283367	1576301283368
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283378
+USER	RecordedSimulation	319	START	1576301283377	1576301283377
+USER	RecordedSimulation	319	END	1576301283377	1576301283378
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283388
+USER	RecordedSimulation	320	START	1576301283387	1576301283387
+USER	RecordedSimulation	320	END	1576301283387	1576301283389
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283398
+USER	RecordedSimulation	321	START	1576301283398	1576301283398
+USER	RecordedSimulation	321	END	1576301283398	1576301283399
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283407
+USER	RecordedSimulation	322	START	1576301283407	1576301283407
+USER	RecordedSimulation	322	END	1576301283407	1576301283408
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283418
+USER	RecordedSimulation	323	START	1576301283417	1576301283417
+USER	RecordedSimulation	323	END	1576301283417	1576301283419
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283428
+USER	RecordedSimulation	324	START	1576301283427	1576301283427
+USER	RecordedSimulation	324	END	1576301283427	1576301283429
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283438
+USER	RecordedSimulation	325	START	1576301283438	1576301283438
+USER	RecordedSimulation	325	END	1576301283438	1576301283439
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283447
+USER	RecordedSimulation	326	START	1576301283447	1576301283447
+USER	RecordedSimulation	326	END	1576301283447	1576301283448
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283457
+USER	RecordedSimulation	327	START	1576301283457	1576301283457
+USER	RecordedSimulation	327	END	1576301283457	1576301283458
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283468
+USER	RecordedSimulation	328	START	1576301283467	1576301283467
+USER	RecordedSimulation	328	END	1576301283467	1576301283468
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283478
+USER	RecordedSimulation	329	START	1576301283477	1576301283477
+USER	RecordedSimulation	329	END	1576301283477	1576301283478
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283488
+USER	RecordedSimulation	330	START	1576301283488	1576301283488
+USER	RecordedSimulation	330	END	1576301283488	1576301283488
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283497
+USER	RecordedSimulation	331	START	1576301283497	1576301283497
+USER	RecordedSimulation	331	END	1576301283497	1576301283497
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283507
+USER	RecordedSimulation	332	START	1576301283507	1576301283507
+USER	RecordedSimulation	332	END	1576301283507	1576301283508
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283517
+USER	RecordedSimulation	333	START	1576301283517	1576301283517
+USER	RecordedSimulation	333	END	1576301283517	1576301283518
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283528
+USER	RecordedSimulation	334	START	1576301283527	1576301283527
+USER	RecordedSimulation	334	END	1576301283527	1576301283528
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283538
+USER	RecordedSimulation	335	START	1576301283538	1576301283538
+USER	RecordedSimulation	335	END	1576301283538	1576301283538
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283547
+USER	RecordedSimulation	336	START	1576301283547	1576301283547
+USER	RecordedSimulation	336	END	1576301283547	1576301283548
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283558
+USER	RecordedSimulation	337	START	1576301283557	1576301283557
+USER	RecordedSimulation	337	END	1576301283557	1576301283558
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283568
+USER	RecordedSimulation	338	START	1576301283567	1576301283567
+USER	RecordedSimulation	338	END	1576301283567	1576301283568
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283578
+USER	RecordedSimulation	339	START	1576301283577	1576301283577
+USER	RecordedSimulation	339	END	1576301283577	1576301283579
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283587
+USER	RecordedSimulation	340	START	1576301283587	1576301283587
+USER	RecordedSimulation	340	END	1576301283587	1576301283588
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283598
+USER	RecordedSimulation	341	START	1576301283597	1576301283597
+USER	RecordedSimulation	341	END	1576301283597	1576301283598
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283608
+USER	RecordedSimulation	342	START	1576301283607	1576301283607
+USER	RecordedSimulation	342	END	1576301283607	1576301283609
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283618
+USER	RecordedSimulation	343	START	1576301283617	1576301283617
+USER	RecordedSimulation	343	END	1576301283617	1576301283619
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283627
+USER	RecordedSimulation	344	START	1576301283627	1576301283627
+USER	RecordedSimulation	344	END	1576301283627	1576301283628
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283638
+USER	RecordedSimulation	345	START	1576301283637	1576301283637
+USER	RecordedSimulation	345	END	1576301283637	1576301283638
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283648
+USER	RecordedSimulation	346	START	1576301283647	1576301283647
+USER	RecordedSimulation	346	END	1576301283647	1576301283649
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283658
+USER	RecordedSimulation	347	START	1576301283657	1576301283657
+USER	RecordedSimulation	347	END	1576301283657	1576301283659
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283668
+USER	RecordedSimulation	348	START	1576301283668	1576301283668
+USER	RecordedSimulation	348	END	1576301283668	1576301283669
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283677
+USER	RecordedSimulation	349	START	1576301283677	1576301283677
+USER	RecordedSimulation	349	END	1576301283677	1576301283678
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283687
+USER	RecordedSimulation	350	START	1576301283687	1576301283687
+USER	RecordedSimulation	350	END	1576301283687	1576301283688
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283698
+USER	RecordedSimulation	351	START	1576301283697	1576301283697
+USER	RecordedSimulation	351	END	1576301283697	1576301283698
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283708
+USER	RecordedSimulation	352	START	1576301283707	1576301283707
+USER	RecordedSimulation	352	END	1576301283707	1576301283708
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283717
+USER	RecordedSimulation	353	START	1576301283717	1576301283717
+USER	RecordedSimulation	353	END	1576301283717	1576301283717
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283727
+USER	RecordedSimulation	354	START	1576301283727	1576301283727
+USER	RecordedSimulation	354	END	1576301283727	1576301283728
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283737
+USER	RecordedSimulation	355	START	1576301283737	1576301283737
+USER	RecordedSimulation	355	END	1576301283737	1576301283738
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283748
+USER	RecordedSimulation	356	START	1576301283747	1576301283747
+USER	RecordedSimulation	356	END	1576301283747	1576301283748
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283758
+USER	RecordedSimulation	357	START	1576301283757	1576301283757
+USER	RecordedSimulation	357	END	1576301283757	1576301283759
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283767
+USER	RecordedSimulation	358	START	1576301283767	1576301283767
+USER	RecordedSimulation	358	END	1576301283767	1576301283768
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283777
+USER	RecordedSimulation	359	START	1576301283777	1576301283777
+USER	RecordedSimulation	359	END	1576301283777	1576301283778
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283788
+USER	RecordedSimulation	360	START	1576301283787	1576301283787
+USER	RecordedSimulation	360	END	1576301283787	1576301283788
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283798
+USER	RecordedSimulation	361	START	1576301283797	1576301283797
+USER	RecordedSimulation	361	END	1576301283797	1576301283798
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283808
+USER	RecordedSimulation	362	START	1576301283807	1576301283807
+USER	RecordedSimulation	362	END	1576301283807	1576301283808
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283818
+USER	RecordedSimulation	363	START	1576301283817	1576301283817
+USER	RecordedSimulation	363	END	1576301283817	1576301283818
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283827
+USER	RecordedSimulation	364	START	1576301283827	1576301283827
+USER	RecordedSimulation	364	END	1576301283827	1576301283828
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283838
+USER	RecordedSimulation	365	START	1576301283837	1576301283837
+USER	RecordedSimulation	365	END	1576301283837	1576301283838
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283848
+USER	RecordedSimulation	366	START	1576301283847	1576301283847
+USER	RecordedSimulation	366	END	1576301283847	1576301283848
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283857
+USER	RecordedSimulation	367	START	1576301283857	1576301283857
+USER	RecordedSimulation	367	END	1576301283857	1576301283858
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283867
+USER	RecordedSimulation	368	START	1576301283867	1576301283867
+USER	RecordedSimulation	368	END	1576301283867	1576301283868
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283877
+USER	RecordedSimulation	369	START	1576301283877	1576301283877
+USER	RecordedSimulation	369	END	1576301283877	1576301283878
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283888
+USER	RecordedSimulation	370	START	1576301283887	1576301283887
+USER	RecordedSimulation	370	END	1576301283887	1576301283888
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283898
+USER	RecordedSimulation	371	START	1576301283898	1576301283898
+USER	RecordedSimulation	371	END	1576301283898	1576301283898
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283907
+USER	RecordedSimulation	372	START	1576301283907	1576301283907
+USER	RecordedSimulation	372	END	1576301283907	1576301283908
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283917
+USER	RecordedSimulation	373	START	1576301283917	1576301283917
+USER	RecordedSimulation	373	END	1576301283917	1576301283918
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283928
+USER	RecordedSimulation	374	START	1576301283927	1576301283927
+USER	RecordedSimulation	374	END	1576301283927	1576301283928
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283938
+USER	RecordedSimulation	375	START	1576301283937	1576301283937
+USER	RecordedSimulation	375	END	1576301283937	1576301283938
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283947
+USER	RecordedSimulation	376	START	1576301283947	1576301283947
+USER	RecordedSimulation	376	END	1576301283947	1576301283948
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283958
+USER	RecordedSimulation	377	START	1576301283957	1576301283957
+USER	RecordedSimulation	377	END	1576301283957	1576301283958
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283968
+USER	RecordedSimulation	378	START	1576301283967	1576301283967
+USER	RecordedSimulation	378	END	1576301283967	1576301283968
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283978
+USER	RecordedSimulation	379	START	1576301283977	1576301283977
+USER	RecordedSimulation	379	END	1576301283977	1576301283978
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283988
+USER	RecordedSimulation	380	START	1576301283987	1576301283987
+USER	RecordedSimulation	380	END	1576301283987	1576301283988
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301283997
+USER	RecordedSimulation	381	START	1576301283997	1576301283997
+USER	RecordedSimulation	381	END	1576301283997	1576301283998
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284007
+USER	RecordedSimulation	382	START	1576301284007	1576301284007
+USER	RecordedSimulation	382	END	1576301284007	1576301284008
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284017
+USER	RecordedSimulation	383	START	1576301284017	1576301284017
+USER	RecordedSimulation	383	END	1576301284017	1576301284018
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284027
+USER	RecordedSimulation	384	START	1576301284027	1576301284027
+USER	RecordedSimulation	384	END	1576301284027	1576301284028
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284038
+USER	RecordedSimulation	385	START	1576301284037	1576301284037
+USER	RecordedSimulation	385	END	1576301284037	1576301284038
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284048
+USER	RecordedSimulation	386	START	1576301284047	1576301284047
+USER	RecordedSimulation	386	END	1576301284047	1576301284048
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284057
+USER	RecordedSimulation	387	START	1576301284057	1576301284057
+USER	RecordedSimulation	387	END	1576301284057	1576301284057
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284067
+USER	RecordedSimulation	388	START	1576301284067	1576301284067
+USER	RecordedSimulation	388	END	1576301284067	1576301284067
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284077
+USER	RecordedSimulation	389	START	1576301284077	1576301284077
+USER	RecordedSimulation	389	END	1576301284077	1576301284077
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284087
+USER	RecordedSimulation	390	START	1576301284087	1576301284087
+USER	RecordedSimulation	390	END	1576301284087	1576301284088
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284098
+USER	RecordedSimulation	391	START	1576301284097	1576301284097
+USER	RecordedSimulation	391	END	1576301284097	1576301284098
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284107
+USER	RecordedSimulation	392	START	1576301284107	1576301284107
+USER	RecordedSimulation	392	END	1576301284107	1576301284107
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284117
+USER	RecordedSimulation	393	START	1576301284117	1576301284117
+USER	RecordedSimulation	393	END	1576301284117	1576301284117
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284127
+USER	RecordedSimulation	394	START	1576301284127	1576301284127
+USER	RecordedSimulation	394	END	1576301284127	1576301284128
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284138
+USER	RecordedSimulation	395	START	1576301284137	1576301284137
+USER	RecordedSimulation	395	END	1576301284137	1576301284138
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284148
+USER	RecordedSimulation	396	START	1576301284147	1576301284147
+USER	RecordedSimulation	396	END	1576301284147	1576301284148
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284158
+USER	RecordedSimulation	397	START	1576301284158	1576301284158
+USER	RecordedSimulation	397	END	1576301284158	1576301284158
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284167
+USER	RecordedSimulation	398	START	1576301284167	1576301284167
+USER	RecordedSimulation	398	END	1576301284167	1576301284167
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284177
+USER	RecordedSimulation	399	START	1576301284177	1576301284177
+USER	RecordedSimulation	399	END	1576301284177	1576301284178
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284187
+USER	RecordedSimulation	400	START	1576301284187	1576301284187
+USER	RecordedSimulation	400	END	1576301284187	1576301284188
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284198
+USER	RecordedSimulation	401	START	1576301284197	1576301284197
+USER	RecordedSimulation	401	END	1576301284197	1576301284198
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284208
+USER	RecordedSimulation	402	START	1576301284207	1576301284207
+USER	RecordedSimulation	402	END	1576301284207	1576301284209
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284217
+USER	RecordedSimulation	403	START	1576301284217	1576301284217
+USER	RecordedSimulation	403	END	1576301284217	1576301284217
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284227
+USER	RecordedSimulation	404	START	1576301284227	1576301284227
+USER	RecordedSimulation	404	END	1576301284227	1576301284228
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284238
+USER	RecordedSimulation	405	START	1576301284237	1576301284237
+USER	RecordedSimulation	405	END	1576301284237	1576301284238
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284248
+USER	RecordedSimulation	406	START	1576301284247	1576301284247
+USER	RecordedSimulation	406	END	1576301284247	1576301284248
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284258
+USER	RecordedSimulation	407	START	1576301284257	1576301284257
+USER	RecordedSimulation	407	END	1576301284257	1576301284258
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284267
+USER	RecordedSimulation	408	START	1576301284267	1576301284267
+USER	RecordedSimulation	408	END	1576301284267	1576301284267
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284277
+USER	RecordedSimulation	409	START	1576301284277	1576301284277
+USER	RecordedSimulation	409	END	1576301284277	1576301284277
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284287
+USER	RecordedSimulation	410	START	1576301284287	1576301284287
+USER	RecordedSimulation	410	END	1576301284287	1576301284287
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284297
+USER	RecordedSimulation	411	START	1576301284297	1576301284297
+USER	RecordedSimulation	411	END	1576301284297	1576301284298
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284308
+USER	RecordedSimulation	412	START	1576301284307	1576301284307
+USER	RecordedSimulation	412	END	1576301284307	1576301284308
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284318
+USER	RecordedSimulation	413	START	1576301284317	1576301284317
+USER	RecordedSimulation	413	END	1576301284317	1576301284318
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284327
+USER	RecordedSimulation	414	START	1576301284327	1576301284327
+USER	RecordedSimulation	414	END	1576301284327	1576301284327
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284337
+USER	RecordedSimulation	415	START	1576301284337	1576301284337
+USER	RecordedSimulation	415	END	1576301284337	1576301284338
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284348
+USER	RecordedSimulation	416	START	1576301284347	1576301284347
+USER	RecordedSimulation	416	END	1576301284347	1576301284348
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284358
+USER	RecordedSimulation	417	START	1576301284357	1576301284357
+USER	RecordedSimulation	417	END	1576301284357	1576301284358
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284368
+USER	RecordedSimulation	418	START	1576301284368	1576301284368
+USER	RecordedSimulation	418	END	1576301284368	1576301284368
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284377
+USER	RecordedSimulation	419	START	1576301284377	1576301284377
+USER	RecordedSimulation	419	END	1576301284377	1576301284377
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284387
+USER	RecordedSimulation	420	START	1576301284387	1576301284387
+USER	RecordedSimulation	420	END	1576301284387	1576301284388
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284398
+USER	RecordedSimulation	421	START	1576301284397	1576301284397
+USER	RecordedSimulation	421	END	1576301284397	1576301284398
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284408
+USER	RecordedSimulation	422	START	1576301284407	1576301284407
+USER	RecordedSimulation	422	END	1576301284407	1576301284409
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284418
+USER	RecordedSimulation	423	START	1576301284418	1576301284418
+USER	RecordedSimulation	423	END	1576301284418	1576301284419
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284427
+USER	RecordedSimulation	424	START	1576301284427	1576301284427
+USER	RecordedSimulation	424	END	1576301284427	1576301284428
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284437
+USER	RecordedSimulation	425	START	1576301284437	1576301284437
+USER	RecordedSimulation	425	END	1576301284437	1576301284438
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284447
+USER	RecordedSimulation	426	START	1576301284447	1576301284447
+USER	RecordedSimulation	426	END	1576301284447	1576301284448
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284457
+USER	RecordedSimulation	427	START	1576301284457	1576301284457
+USER	RecordedSimulation	427	END	1576301284457	1576301284458
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284468
+USER	RecordedSimulation	428	START	1576301284468	1576301284468
+USER	RecordedSimulation	428	END	1576301284468	1576301284468
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284477
+USER	RecordedSimulation	429	START	1576301284477	1576301284477
+USER	RecordedSimulation	429	END	1576301284477	1576301284477
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284487
+USER	RecordedSimulation	430	START	1576301284487	1576301284487
+USER	RecordedSimulation	430	END	1576301284487	1576301284488
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284498
+USER	RecordedSimulation	431	START	1576301284497	1576301284497
+USER	RecordedSimulation	431	END	1576301284497	1576301284499
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284508
+USER	RecordedSimulation	432	START	1576301284507	1576301284507
+USER	RecordedSimulation	432	END	1576301284507	1576301284509
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284517
+USER	RecordedSimulation	433	START	1576301284517	1576301284517
+USER	RecordedSimulation	433	END	1576301284517	1576301284518
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284527
+USER	RecordedSimulation	434	START	1576301284527	1576301284527
+USER	RecordedSimulation	434	END	1576301284527	1576301284528
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284538
+USER	RecordedSimulation	435	START	1576301284537	1576301284537
+USER	RecordedSimulation	435	END	1576301284537	1576301284538
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284548
+USER	RecordedSimulation	436	START	1576301284547	1576301284547
+USER	RecordedSimulation	436	END	1576301284547	1576301284548
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284558
+USER	RecordedSimulation	437	START	1576301284558	1576301284558
+USER	RecordedSimulation	437	END	1576301284558	1576301284559
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284567
+USER	RecordedSimulation	438	START	1576301284567	1576301284567
+USER	RecordedSimulation	438	END	1576301284567	1576301284568
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284577
+USER	RecordedSimulation	439	START	1576301284577	1576301284577
+USER	RecordedSimulation	439	END	1576301284577	1576301284578
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284587
+USER	RecordedSimulation	440	START	1576301284587	1576301284587
+USER	RecordedSimulation	440	END	1576301284587	1576301284588
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284598
+USER	RecordedSimulation	441	START	1576301284597	1576301284597
+USER	RecordedSimulation	441	END	1576301284597	1576301284598
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284608
+USER	RecordedSimulation	442	START	1576301284607	1576301284607
+USER	RecordedSimulation	442	END	1576301284607	1576301284608
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284618
+USER	RecordedSimulation	443	START	1576301284618	1576301284618
+USER	RecordedSimulation	443	END	1576301284618	1576301284618
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284627
+USER	RecordedSimulation	444	START	1576301284627	1576301284627
+USER	RecordedSimulation	444	END	1576301284627	1576301284627
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284637
+USER	RecordedSimulation	445	START	1576301284637	1576301284637
+USER	RecordedSimulation	445	END	1576301284637	1576301284638
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284647
+USER	RecordedSimulation	446	START	1576301284647	1576301284647
+USER	RecordedSimulation	446	END	1576301284647	1576301284648
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284658
+USER	RecordedSimulation	447	END	1576301284657	1576301284658
+USER	RecordedSimulation	447	START	1576301284657	1576301284657
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284668
+USER	RecordedSimulation	448	START	1576301284667	1576301284667
+USER	RecordedSimulation	448	END	1576301284667	1576301284668
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284677
+USER	RecordedSimulation	449	START	1576301284677	1576301284677
+USER	RecordedSimulation	449	END	1576301284677	1576301284677
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284687
+USER	RecordedSimulation	450	START	1576301284687	1576301284687
+USER	RecordedSimulation	450	END	1576301284687	1576301284687
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284697
+USER	RecordedSimulation	451	START	1576301284697	1576301284697
+USER	RecordedSimulation	451	END	1576301284697	1576301284697
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284707
+USER	RecordedSimulation	452	START	1576301284707	1576301284707
+USER	RecordedSimulation	452	END	1576301284707	1576301284708
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284717
+USER	RecordedSimulation	453	START	1576301284717	1576301284717
+USER	RecordedSimulation	453	END	1576301284717	1576301284718
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284728
+USER	RecordedSimulation	454	START	1576301284727	1576301284727
+USER	RecordedSimulation	454	END	1576301284727	1576301284728
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284737
+USER	RecordedSimulation	455	START	1576301284737	1576301284737
+USER	RecordedSimulation	455	END	1576301284737	1576301284737
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284747
+USER	RecordedSimulation	456	START	1576301284747	1576301284747
+USER	RecordedSimulation	456	END	1576301284747	1576301284747
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284757
+USER	RecordedSimulation	457	START	1576301284757	1576301284757
+USER	RecordedSimulation	457	END	1576301284757	1576301284758
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284767
+USER	RecordedSimulation	458	START	1576301284767	1576301284767
+USER	RecordedSimulation	458	END	1576301284767	1576301284768
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284778
+USER	RecordedSimulation	459	START	1576301284777	1576301284777
+USER	RecordedSimulation	459	END	1576301284777	1576301284778
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284788
+USER	RecordedSimulation	460	START	1576301284788	1576301284788
+USER	RecordedSimulation	460	END	1576301284788	1576301284788
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284797
+USER	RecordedSimulation	461	START	1576301284797	1576301284797
+USER	RecordedSimulation	461	END	1576301284797	1576301284798
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284808
+USER	RecordedSimulation	462	START	1576301284807	1576301284807
+USER	RecordedSimulation	462	END	1576301284807	1576301284808
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284818
+USER	RecordedSimulation	463	START	1576301284817	1576301284817
+USER	RecordedSimulation	463	END	1576301284817	1576301284818
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284828
+USER	RecordedSimulation	464	START	1576301284827	1576301284827
+USER	RecordedSimulation	464	END	1576301284827	1576301284828
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284838
+USER	RecordedSimulation	465	START	1576301284838	1576301284838
+USER	RecordedSimulation	465	END	1576301284838	1576301284839
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284847
+USER	RecordedSimulation	466	START	1576301284847	1576301284847
+USER	RecordedSimulation	466	END	1576301284847	1576301284848
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284858
+USER	RecordedSimulation	467	START	1576301284857	1576301284857
+USER	RecordedSimulation	467	END	1576301284857	1576301284858
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284868
+USER	RecordedSimulation	468	START	1576301284867	1576301284867
+USER	RecordedSimulation	468	END	1576301284867	1576301284869
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284878
+USER	RecordedSimulation	469	START	1576301284877	1576301284877
+USER	RecordedSimulation	469	END	1576301284877	1576301284879
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284887
+USER	RecordedSimulation	470	START	1576301284887	1576301284887
+USER	RecordedSimulation	470	END	1576301284887	1576301284888
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284898
+USER	RecordedSimulation	471	START	1576301284897	1576301284897
+USER	RecordedSimulation	471	END	1576301284897	1576301284898
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284908
+USER	RecordedSimulation	472	START	1576301284907	1576301284907
+USER	RecordedSimulation	472	END	1576301284907	1576301284908
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284918
+USER	RecordedSimulation	473	START	1576301284917	1576301284917
+USER	RecordedSimulation	473	END	1576301284917	1576301284918
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284928
+USER	RecordedSimulation	474	START	1576301284928	1576301284928
+USER	RecordedSimulation	474	END	1576301284928	1576301284929
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284937
+USER	RecordedSimulation	475	START	1576301284937	1576301284937
+USER	RecordedSimulation	475	END	1576301284937	1576301284938
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284948
+USER	RecordedSimulation	476	START	1576301284947	1576301284947
+USER	RecordedSimulation	476	END	1576301284947	1576301284948
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284958
+USER	RecordedSimulation	477	START	1576301284957	1576301284957
+USER	RecordedSimulation	477	END	1576301284957	1576301284958
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284968
+USER	RecordedSimulation	478	START	1576301284967	1576301284967
+USER	RecordedSimulation	478	END	1576301284967	1576301284968
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284977
+USER	RecordedSimulation	479	START	1576301284977	1576301284977
+USER	RecordedSimulation	479	END	1576301284977	1576301284978
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284987
+USER	RecordedSimulation	480	START	1576301284987	1576301284987
+USER	RecordedSimulation	480	END	1576301284987	1576301284988
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301284998
+USER	RecordedSimulation	481	START	1576301284997	1576301284997
+USER	RecordedSimulation	481	END	1576301284997	1576301284998
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285008
+USER	RecordedSimulation	482	START	1576301285007	1576301285007
+USER	RecordedSimulation	482	END	1576301285007	1576301285008
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285018
+USER	RecordedSimulation	483	START	1576301285017	1576301285017
+USER	RecordedSimulation	483	END	1576301285017	1576301285019
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285027
+USER	RecordedSimulation	484	START	1576301285027	1576301285027
+USER	RecordedSimulation	484	END	1576301285027	1576301285028
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285037
+USER	RecordedSimulation	485	START	1576301285037	1576301285037
+USER	RecordedSimulation	485	END	1576301285037	1576301285038
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285048
+USER	RecordedSimulation	486	START	1576301285047	1576301285047
+USER	RecordedSimulation	486	END	1576301285047	1576301285048
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285058
+USER	RecordedSimulation	487	START	1576301285057	1576301285057
+USER	RecordedSimulation	487	END	1576301285057	1576301285058
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285068
+USER	RecordedSimulation	488	START	1576301285067	1576301285067
+USER	RecordedSimulation	488	END	1576301285067	1576301285068
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285077
+USER	RecordedSimulation	489	START	1576301285077	1576301285077
+USER	RecordedSimulation	489	END	1576301285077	1576301285078
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285087
+USER	RecordedSimulation	490	START	1576301285087	1576301285087
+USER	RecordedSimulation	490	END	1576301285087	1576301285088
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285098
+USER	RecordedSimulation	491	START	1576301285097	1576301285097
+USER	RecordedSimulation	491	END	1576301285097	1576301285099
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285108
+USER	RecordedSimulation	492	START	1576301285107	1576301285107
+USER	RecordedSimulation	492	END	1576301285107	1576301285108
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285118
+USER	RecordedSimulation	493	START	1576301285118	1576301285118
+USER	RecordedSimulation	493	END	1576301285118	1576301285119
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285127
+USER	RecordedSimulation	494	START	1576301285127	1576301285127
+USER	RecordedSimulation	494	END	1576301285127	1576301285128
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285137
+USER	RecordedSimulation	495	START	1576301285137	1576301285137
+USER	RecordedSimulation	495	END	1576301285137	1576301285138
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285148
+USER	RecordedSimulation	496	START	1576301285147	1576301285147
+USER	RecordedSimulation	496	END	1576301285147	1576301285148
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285158
+USER	RecordedSimulation	497	START	1576301285157	1576301285157
+USER	RecordedSimulation	497	END	1576301285157	1576301285159
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285167
+USER	RecordedSimulation	498	START	1576301285167	1576301285167
+USER	RecordedSimulation	498	END	1576301285167	1576301285168
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285177
+USER	RecordedSimulation	499	START	1576301285177	1576301285177
+USER	RecordedSimulation	499	END	1576301285177	1576301285178
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285188
+USER	RecordedSimulation	500	START	1576301285187	1576301285187
+USER	RecordedSimulation	500	END	1576301285187	1576301285188
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285198
+USER	RecordedSimulation	501	START	1576301285197	1576301285197
+USER	RecordedSimulation	501	END	1576301285197	1576301285199
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285208
+USER	RecordedSimulation	502	START	1576301285207	1576301285207
+USER	RecordedSimulation	502	END	1576301285207	1576301285208
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285218
+USER	RecordedSimulation	503	START	1576301285217	1576301285217
+USER	RecordedSimulation	503	END	1576301285217	1576301285218
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285227
+USER	RecordedSimulation	504	START	1576301285227	1576301285227
+USER	RecordedSimulation	504	END	1576301285227	1576301285227
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285237
+USER	RecordedSimulation	505	START	1576301285237	1576301285237
+USER	RecordedSimulation	505	END	1576301285237	1576301285237
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285247
+USER	RecordedSimulation	506	START	1576301285247	1576301285247
+USER	RecordedSimulation	506	END	1576301285247	1576301285248
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285257
+USER	RecordedSimulation	507	START	1576301285257	1576301285257
+USER	RecordedSimulation	507	END	1576301285257	1576301285258
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285268
+USER	RecordedSimulation	508	START	1576301285267	1576301285267
+USER	RecordedSimulation	508	END	1576301285267	1576301285268
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285277
+USER	RecordedSimulation	509	START	1576301285277	1576301285277
+USER	RecordedSimulation	509	END	1576301285277	1576301285277
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285287
+USER	RecordedSimulation	510	START	1576301285287	1576301285287
+USER	RecordedSimulation	510	END	1576301285287	1576301285288
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285297
+USER	RecordedSimulation	511	START	1576301285297	1576301285297
+USER	RecordedSimulation	511	END	1576301285297	1576301285298
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285308
+USER	RecordedSimulation	512	START	1576301285307	1576301285307
+USER	RecordedSimulation	512	END	1576301285307	1576301285309
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285318
+USER	RecordedSimulation	513	START	1576301285317	1576301285317
+USER	RecordedSimulation	513	END	1576301285317	1576301285318
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285327
+USER	RecordedSimulation	514	START	1576301285327	1576301285327
+USER	RecordedSimulation	514	END	1576301285327	1576301285327
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285337
+USER	RecordedSimulation	515	START	1576301285337	1576301285337
+USER	RecordedSimulation	515	END	1576301285337	1576301285338
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285347
+USER	RecordedSimulation	516	START	1576301285347	1576301285347
+USER	RecordedSimulation	516	END	1576301285347	1576301285348
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285357
+USER	RecordedSimulation	517	START	1576301285357	1576301285357
+USER	RecordedSimulation	517	END	1576301285357	1576301285358
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285367
+USER	RecordedSimulation	518	START	1576301285367	1576301285367
+USER	RecordedSimulation	518	END	1576301285367	1576301285368
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285378
+USER	RecordedSimulation	519	START	1576301285377	1576301285377
+USER	RecordedSimulation	519	END	1576301285377	1576301285378
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285388
+USER	RecordedSimulation	520	START	1576301285387	1576301285387
+USER	RecordedSimulation	520	END	1576301285387	1576301285388
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285397
+USER	RecordedSimulation	521	START	1576301285397	1576301285397
+USER	RecordedSimulation	521	END	1576301285397	1576301285398
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285407
+USER	RecordedSimulation	522	START	1576301285407	1576301285407
+USER	RecordedSimulation	522	END	1576301285407	1576301285408
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285417
+USER	RecordedSimulation	523	START	1576301285417	1576301285417
+USER	RecordedSimulation	523	END	1576301285417	1576301285418
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285428
+USER	RecordedSimulation	524	START	1576301285427	1576301285427
+USER	RecordedSimulation	524	END	1576301285427	1576301285428
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285438
+USER	RecordedSimulation	525	START	1576301285437	1576301285437
+USER	RecordedSimulation	525	END	1576301285437	1576301285438
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285448
+USER	RecordedSimulation	526	START	1576301285447	1576301285447
+USER	RecordedSimulation	526	END	1576301285447	1576301285448
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285457
+USER	RecordedSimulation	527	START	1576301285457	1576301285457
+USER	RecordedSimulation	527	END	1576301285457	1576301285458
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285467
+USER	RecordedSimulation	528	START	1576301285467	1576301285467
+USER	RecordedSimulation	528	END	1576301285467	1576301285468
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285478
+USER	RecordedSimulation	529	START	1576301285477	1576301285477
+USER	RecordedSimulation	529	END	1576301285477	1576301285478
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285488
+USER	RecordedSimulation	530	START	1576301285487	1576301285487
+USER	RecordedSimulation	530	END	1576301285487	1576301285488
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285498
+USER	RecordedSimulation	531	START	1576301285497	1576301285497
+USER	RecordedSimulation	531	END	1576301285497	1576301285498
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285507
+USER	RecordedSimulation	532	START	1576301285507	1576301285507
+USER	RecordedSimulation	532	END	1576301285507	1576301285507
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285517
+USER	RecordedSimulation	533	START	1576301285517	1576301285517
+USER	RecordedSimulation	533	END	1576301285517	1576301285518
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285527
+USER	RecordedSimulation	534	START	1576301285527	1576301285527
+USER	RecordedSimulation	534	END	1576301285527	1576301285528
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285537
+USER	RecordedSimulation	535	START	1576301285537	1576301285537
+USER	RecordedSimulation	535	END	1576301285537	1576301285538
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285548
+USER	RecordedSimulation	536	START	1576301285547	1576301285547
+USER	RecordedSimulation	536	END	1576301285547	1576301285548
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285558
+USER	RecordedSimulation	537	START	1576301285558	1576301285558
+USER	RecordedSimulation	537	END	1576301285558	1576301285559
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285567
+USER	RecordedSimulation	538	START	1576301285567	1576301285567
+USER	RecordedSimulation	538	END	1576301285567	1576301285568
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285577
+USER	RecordedSimulation	539	START	1576301285577	1576301285577
+USER	RecordedSimulation	539	END	1576301285577	1576301285578
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285587
+USER	RecordedSimulation	540	START	1576301285587	1576301285587
+USER	RecordedSimulation	540	END	1576301285587	1576301285588
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285597
+USER	RecordedSimulation	541	START	1576301285597	1576301285597
+USER	RecordedSimulation	541	END	1576301285597	1576301285598
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285608
+USER	RecordedSimulation	542	START	1576301285607	1576301285607
+USER	RecordedSimulation	542	END	1576301285607	1576301285608
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285618
+USER	RecordedSimulation	543	START	1576301285618	1576301285618
+USER	RecordedSimulation	543	END	1576301285618	1576301285618
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285627
+USER	RecordedSimulation	544	START	1576301285627	1576301285627
+USER	RecordedSimulation	544	END	1576301285627	1576301285627
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285637
+USER	RecordedSimulation	545	START	1576301285637	1576301285637
+USER	RecordedSimulation	545	END	1576301285637	1576301285637
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285648
+USER	RecordedSimulation	546	START	1576301285647	1576301285647
+USER	RecordedSimulation	546	END	1576301285647	1576301285648
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285658
+USER	RecordedSimulation	547	START	1576301285657	1576301285657
+USER	RecordedSimulation	547	END	1576301285657	1576301285658
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285668
+USER	RecordedSimulation	548	START	1576301285667	1576301285667
+USER	RecordedSimulation	548	END	1576301285667	1576301285668
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285677
+USER	RecordedSimulation	549	START	1576301285677	1576301285677
+USER	RecordedSimulation	549	END	1576301285677	1576301285677
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285687
+USER	RecordedSimulation	550	START	1576301285687	1576301285687
+USER	RecordedSimulation	550	END	1576301285687	1576301285687
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285697
+USER	RecordedSimulation	551	START	1576301285697	1576301285697
+USER	RecordedSimulation	551	END	1576301285697	1576301285698
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285707
+USER	RecordedSimulation	552	START	1576301285707	1576301285707
+USER	RecordedSimulation	552	END	1576301285707	1576301285708
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285718
+USER	RecordedSimulation	553	START	1576301285717	1576301285717
+USER	RecordedSimulation	553	END	1576301285717	1576301285718
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285727
+USER	RecordedSimulation	554	START	1576301285727	1576301285727
+USER	RecordedSimulation	554	END	1576301285727	1576301285727
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285737
+USER	RecordedSimulation	555	START	1576301285737	1576301285737
+USER	RecordedSimulation	555	END	1576301285737	1576301285737
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285747
+USER	RecordedSimulation	556	START	1576301285747	1576301285747
+USER	RecordedSimulation	556	END	1576301285747	1576301285748
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285757
+USER	RecordedSimulation	557	START	1576301285757	1576301285757
+USER	RecordedSimulation	557	END	1576301285757	1576301285758
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285768
+USER	RecordedSimulation	558	START	1576301285767	1576301285767
+USER	RecordedSimulation	558	END	1576301285767	1576301285768
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285778
+USER	RecordedSimulation	559	START	1576301285777	1576301285777
+USER	RecordedSimulation	559	END	1576301285777	1576301285778
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285787
+USER	RecordedSimulation	560	START	1576301285787	1576301285787
+USER	RecordedSimulation	560	END	1576301285787	1576301285787
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285797
+USER	RecordedSimulation	561	START	1576301285797	1576301285797
+USER	RecordedSimulation	561	END	1576301285797	1576301285798
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285807
+USER	RecordedSimulation	562	START	1576301285807	1576301285807
+USER	RecordedSimulation	562	END	1576301285807	1576301285807
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285817
+USER	RecordedSimulation	563	START	1576301285817	1576301285817
+USER	RecordedSimulation	563	END	1576301285817	1576301285818
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285828
+USER	RecordedSimulation	564	START	1576301285827	1576301285827
+USER	RecordedSimulation	564	END	1576301285827	1576301285828
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285838
+USER	RecordedSimulation	565	START	1576301285837	1576301285837
+USER	RecordedSimulation	565	END	1576301285837	1576301285838
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285847
+USER	RecordedSimulation	566	START	1576301285847	1576301285847
+USER	RecordedSimulation	566	END	1576301285847	1576301285847
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285857
+USER	RecordedSimulation	567	START	1576301285857	1576301285857
+USER	RecordedSimulation	567	END	1576301285857	1576301285858
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285867
+USER	RecordedSimulation	568	START	1576301285867	1576301285867
+USER	RecordedSimulation	568	END	1576301285867	1576301285868
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285878
+USER	RecordedSimulation	569	START	1576301285877	1576301285877
+USER	RecordedSimulation	569	END	1576301285877	1576301285878
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285888
+USER	RecordedSimulation	570	START	1576301285887	1576301285887
+USER	RecordedSimulation	570	END	1576301285887	1576301285888
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285898
+USER	RecordedSimulation	571	START	1576301285897	1576301285897
+USER	RecordedSimulation	571	END	1576301285897	1576301285898
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285907
+USER	RecordedSimulation	572	START	1576301285907	1576301285907
+USER	RecordedSimulation	572	END	1576301285907	1576301285907
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285917
+USER	RecordedSimulation	573	START	1576301285917	1576301285917
+USER	RecordedSimulation	573	END	1576301285917	1576301285918
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285927
+USER	RecordedSimulation	574	START	1576301285927	1576301285927
+USER	RecordedSimulation	574	END	1576301285927	1576301285928
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285938
+USER	RecordedSimulation	575	START	1576301285937	1576301285937
+USER	RecordedSimulation	575	END	1576301285937	1576301285938
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285948
+USER	RecordedSimulation	576	START	1576301285947	1576301285947
+USER	RecordedSimulation	576	END	1576301285947	1576301285948
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285958
+USER	RecordedSimulation	577	START	1576301285958	1576301285958
+USER	RecordedSimulation	577	END	1576301285958	1576301285959
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285967
+USER	RecordedSimulation	578	START	1576301285967	1576301285967
+USER	RecordedSimulation	578	END	1576301285967	1576301285968
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285978
+USER	RecordedSimulation	579	START	1576301285977	1576301285977
+USER	RecordedSimulation	579	END	1576301285977	1576301285978
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285988
+USER	RecordedSimulation	580	START	1576301285987	1576301285987
+USER	RecordedSimulation	580	END	1576301285987	1576301285988
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301285998
+USER	RecordedSimulation	581	START	1576301285997	1576301285997
+USER	RecordedSimulation	581	END	1576301285997	1576301285999
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286007
+USER	RecordedSimulation	582	START	1576301286007	1576301286007
+USER	RecordedSimulation	582	END	1576301286007	1576301286007
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286017
+USER	RecordedSimulation	583	START	1576301286017	1576301286017
+USER	RecordedSimulation	583	END	1576301286017	1576301286018
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286027
+USER	RecordedSimulation	584	START	1576301286027	1576301286027
+USER	RecordedSimulation	584	END	1576301286027	1576301286028
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286037
+USER	RecordedSimulation	585	START	1576301286037	1576301286037
+USER	RecordedSimulation	585	END	1576301286037	1576301286038
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286048
+USER	RecordedSimulation	586	START	1576301286047	1576301286047
+USER	RecordedSimulation	586	END	1576301286047	1576301286048
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286058
+USER	RecordedSimulation	587	START	1576301286057	1576301286057
+USER	RecordedSimulation	587	END	1576301286057	1576301286058
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286067
+USER	RecordedSimulation	588	START	1576301286067	1576301286067
+USER	RecordedSimulation	588	END	1576301286067	1576301286067
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286077
+USER	RecordedSimulation	589	START	1576301286077	1576301286077
+USER	RecordedSimulation	589	END	1576301286077	1576301286077
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286087
+USER	RecordedSimulation	590	START	1576301286087	1576301286087
+USER	RecordedSimulation	590	END	1576301286087	1576301286088
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286097
+USER	RecordedSimulation	591	START	1576301286097	1576301286097
+USER	RecordedSimulation	591	END	1576301286097	1576301286098
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286108
+USER	RecordedSimulation	592	START	1576301286107	1576301286107
+USER	RecordedSimulation	592	END	1576301286107	1576301286108
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286118
+USER	RecordedSimulation	593	START	1576301286118	1576301286118
+USER	RecordedSimulation	593	END	1576301286118	1576301286118
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286127
+USER	RecordedSimulation	594	START	1576301286127	1576301286127
+USER	RecordedSimulation	594	END	1576301286127	1576301286127
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286137
+USER	RecordedSimulation	595	START	1576301286137	1576301286137
+USER	RecordedSimulation	595	END	1576301286137	1576301286138
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286148
+USER	RecordedSimulation	596	START	1576301286147	1576301286147
+USER	RecordedSimulation	596	END	1576301286147	1576301286149
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286158
+USER	RecordedSimulation	597	START	1576301286157	1576301286157
+USER	RecordedSimulation	597	END	1576301286157	1576301286159
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286168
+USER	RecordedSimulation	598	START	1576301286168	1576301286168
+USER	RecordedSimulation	598	END	1576301286168	1576301286169
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286177
+USER	RecordedSimulation	599	START	1576301286177	1576301286177
+USER	RecordedSimulation	599	END	1576301286177	1576301286178
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286188
+USER	RecordedSimulation	600	START	1576301286187	1576301286187
+USER	RecordedSimulation	600	END	1576301286187	1576301286188
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286198
+USER	RecordedSimulation	601	START	1576301286197	1576301286197
+USER	RecordedSimulation	601	END	1576301286197	1576301286199
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286208
+USER	RecordedSimulation	602	START	1576301286207	1576301286207
+USER	RecordedSimulation	602	END	1576301286207	1576301286208
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286217
+USER	RecordedSimulation	603	START	1576301286217	1576301286217
+USER	RecordedSimulation	603	END	1576301286217	1576301286217
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286227
+USER	RecordedSimulation	604	START	1576301286227	1576301286227
+USER	RecordedSimulation	604	END	1576301286227	1576301286227
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286237
+USER	RecordedSimulation	605	START	1576301286237	1576301286237
+USER	RecordedSimulation	605	END	1576301286237	1576301286237
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286248
+USER	RecordedSimulation	606	START	1576301286247	1576301286247
+USER	RecordedSimulation	606	END	1576301286247	1576301286248
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286258
+USER	RecordedSimulation	607	START	1576301286257	1576301286257
+USER	RecordedSimulation	607	END	1576301286257	1576301286258
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286268
+USER	RecordedSimulation	608	START	1576301286268	1576301286268
+USER	RecordedSimulation	608	END	1576301286268	1576301286268
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286277
+USER	RecordedSimulation	609	START	1576301286277	1576301286277
+USER	RecordedSimulation	609	END	1576301286277	1576301286277
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286287
+USER	RecordedSimulation	610	START	1576301286287	1576301286287
+USER	RecordedSimulation	610	END	1576301286287	1576301286287
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286298
+USER	RecordedSimulation	611	START	1576301286297	1576301286297
+USER	RecordedSimulation	611	END	1576301286297	1576301286298
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286308
+USER	RecordedSimulation	612	START	1576301286307	1576301286307
+USER	RecordedSimulation	612	END	1576301286307	1576301286308
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286318
+USER	RecordedSimulation	613	START	1576301286318	1576301286318
+USER	RecordedSimulation	613	END	1576301286318	1576301286318
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286327
+USER	RecordedSimulation	614	START	1576301286327	1576301286327
+USER	RecordedSimulation	614	END	1576301286327	1576301286327
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286337
+USER	RecordedSimulation	615	START	1576301286337	1576301286337
+USER	RecordedSimulation	615	END	1576301286337	1576301286338
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286347
+USER	RecordedSimulation	616	START	1576301286347	1576301286347
+USER	RecordedSimulation	616	END	1576301286347	1576301286348
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286357
+USER	RecordedSimulation	617	START	1576301286357	1576301286357
+USER	RecordedSimulation	617	END	1576301286357	1576301286358
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286368
+USER	RecordedSimulation	618	START	1576301286367	1576301286367
+USER	RecordedSimulation	618	END	1576301286367	1576301286368
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286377
+USER	RecordedSimulation	619	START	1576301286377	1576301286377
+USER	RecordedSimulation	619	END	1576301286377	1576301286377
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286387
+USER	RecordedSimulation	620	START	1576301286387	1576301286387
+USER	RecordedSimulation	620	END	1576301286387	1576301286388
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286398
+USER	RecordedSimulation	621	START	1576301286397	1576301286397
+USER	RecordedSimulation	621	END	1576301286397	1576301286398
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286408
+USER	RecordedSimulation	622	START	1576301286407	1576301286407
+USER	RecordedSimulation	622	END	1576301286407	1576301286409
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286418
+USER	RecordedSimulation	623	START	1576301286418	1576301286418
+USER	RecordedSimulation	623	END	1576301286418	1576301286419
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286427
+USER	RecordedSimulation	624	START	1576301286427	1576301286427
+USER	RecordedSimulation	624	END	1576301286427	1576301286428
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286437
+USER	RecordedSimulation	625	START	1576301286437	1576301286437
+USER	RecordedSimulation	625	END	1576301286437	1576301286438
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286447
+USER	RecordedSimulation	626	START	1576301286447	1576301286447
+USER	RecordedSimulation	626	END	1576301286447	1576301286448
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286458
+USER	RecordedSimulation	627	START	1576301286457	1576301286457
+USER	RecordedSimulation	627	END	1576301286457	1576301286458
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286467
+USER	RecordedSimulation	628	START	1576301286467	1576301286467
+USER	RecordedSimulation	628	END	1576301286467	1576301286467
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286477
+USER	RecordedSimulation	629	START	1576301286477	1576301286477
+USER	RecordedSimulation	629	END	1576301286477	1576301286477
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286487
+USER	RecordedSimulation	630	START	1576301286487	1576301286487
+USER	RecordedSimulation	630	END	1576301286487	1576301286487
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286497
+USER	RecordedSimulation	631	START	1576301286497	1576301286497
+USER	RecordedSimulation	631	END	1576301286497	1576301286498
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286508
+USER	RecordedSimulation	632	START	1576301286507	1576301286507
+USER	RecordedSimulation	632	END	1576301286507	1576301286508
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286518
+USER	RecordedSimulation	633	START	1576301286517	1576301286517
+USER	RecordedSimulation	633	END	1576301286517	1576301286518
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286527
+USER	RecordedSimulation	634	START	1576301286527	1576301286527
+USER	RecordedSimulation	634	END	1576301286527	1576301286527
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286537
+USER	RecordedSimulation	635	START	1576301286537	1576301286537
+USER	RecordedSimulation	635	END	1576301286537	1576301286537
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286547
+USER	RecordedSimulation	636	START	1576301286547	1576301286547
+USER	RecordedSimulation	636	END	1576301286547	1576301286548
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286558
+USER	RecordedSimulation	637	START	1576301286557	1576301286557
+USER	RecordedSimulation	637	END	1576301286557	1576301286558
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286568
+USER	RecordedSimulation	638	START	1576301286567	1576301286567
+USER	RecordedSimulation	638	END	1576301286567	1576301286569
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286578
+USER	RecordedSimulation	639	START	1576301286577	1576301286577
+USER	RecordedSimulation	639	END	1576301286577	1576301286578
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286587
+USER	RecordedSimulation	640	START	1576301286587	1576301286587
+USER	RecordedSimulation	640	END	1576301286587	1576301286588
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286598
+USER	RecordedSimulation	641	START	1576301286597	1576301286597
+USER	RecordedSimulation	641	END	1576301286597	1576301286599
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286608
+USER	RecordedSimulation	642	START	1576301286607	1576301286607
+USER	RecordedSimulation	642	END	1576301286607	1576301286608
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286618
+USER	RecordedSimulation	643	START	1576301286617	1576301286617
+USER	RecordedSimulation	643	END	1576301286617	1576301286619
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286628
+USER	RecordedSimulation	644	START	1576301286628	1576301286628
+USER	RecordedSimulation	644	END	1576301286628	1576301286628
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286637
+USER	RecordedSimulation	645	START	1576301286637	1576301286637
+USER	RecordedSimulation	645	END	1576301286637	1576301286638
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286648
+USER	RecordedSimulation	646	START	1576301286647	1576301286647
+USER	RecordedSimulation	646	END	1576301286647	1576301286648
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286658
+USER	RecordedSimulation	647	START	1576301286657	1576301286657
+USER	RecordedSimulation	647	END	1576301286657	1576301286658
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286668
+USER	RecordedSimulation	648	START	1576301286667	1576301286667
+USER	RecordedSimulation	648	END	1576301286667	1576301286668
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286678
+USER	RecordedSimulation	649	START	1576301286677	1576301286677
+USER	RecordedSimulation	649	END	1576301286677	1576301286678
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286687
+USER	RecordedSimulation	650	START	1576301286687	1576301286687
+USER	RecordedSimulation	650	END	1576301286687	1576301286687
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286697
+USER	RecordedSimulation	651	START	1576301286697	1576301286697
+USER	RecordedSimulation	651	END	1576301286697	1576301286697
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286707
+USER	RecordedSimulation	652	START	1576301286707	1576301286707
+USER	RecordedSimulation	652	END	1576301286707	1576301286708
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286717
+USER	RecordedSimulation	653	START	1576301286717	1576301286717
+USER	RecordedSimulation	653	END	1576301286717	1576301286718
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286728
+USER	RecordedSimulation	654	START	1576301286727	1576301286727
+USER	RecordedSimulation	654	END	1576301286727	1576301286728
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286738
+USER	RecordedSimulation	655	START	1576301286738	1576301286738
+USER	RecordedSimulation	655	END	1576301286738	1576301286738
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286747
+USER	RecordedSimulation	656	START	1576301286747	1576301286747
+USER	RecordedSimulation	656	END	1576301286747	1576301286747
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286757
+USER	RecordedSimulation	657	START	1576301286757	1576301286757
+USER	RecordedSimulation	657	END	1576301286757	1576301286758
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286767
+USER	RecordedSimulation	658	START	1576301286767	1576301286767
+USER	RecordedSimulation	658	END	1576301286767	1576301286768
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286778
+USER	RecordedSimulation	659	START	1576301286777	1576301286777
+USER	RecordedSimulation	659	END	1576301286777	1576301286778
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286788
+USER	RecordedSimulation	660	START	1576301286788	1576301286788
+USER	RecordedSimulation	660	END	1576301286788	1576301286788
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286797
+USER	RecordedSimulation	661	START	1576301286797	1576301286797
+USER	RecordedSimulation	661	END	1576301286797	1576301286798
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286807
+USER	RecordedSimulation	662	START	1576301286807	1576301286807
+USER	RecordedSimulation	662	END	1576301286807	1576301286808
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286817
+USER	RecordedSimulation	663	START	1576301286817	1576301286817
+USER	RecordedSimulation	663	END	1576301286817	1576301286818
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286828
+USER	RecordedSimulation	664	START	1576301286827	1576301286827
+USER	RecordedSimulation	664	END	1576301286827	1576301286828
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286838
+USER	RecordedSimulation	665	START	1576301286837	1576301286837
+USER	RecordedSimulation	665	END	1576301286837	1576301286838
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286847
+USER	RecordedSimulation	666	START	1576301286847	1576301286847
+USER	RecordedSimulation	666	END	1576301286847	1576301286847
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286857
+USER	RecordedSimulation	667	START	1576301286857	1576301286857
+USER	RecordedSimulation	667	END	1576301286857	1576301286857
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286867
+USER	RecordedSimulation	668	START	1576301286867	1576301286867
+USER	RecordedSimulation	668	END	1576301286867	1576301286868
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286877
+USER	RecordedSimulation	669	START	1576301286877	1576301286877
+USER	RecordedSimulation	669	END	1576301286877	1576301286878
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286888
+USER	RecordedSimulation	670	START	1576301286887	1576301286887
+USER	RecordedSimulation	670	END	1576301286887	1576301286888
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286898
+USER	RecordedSimulation	671	START	1576301286898	1576301286898
+USER	RecordedSimulation	671	END	1576301286898	1576301286898
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286907
+USER	RecordedSimulation	672	START	1576301286907	1576301286907
+USER	RecordedSimulation	672	END	1576301286907	1576301286907
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286917
+USER	RecordedSimulation	673	START	1576301286917	1576301286917
+USER	RecordedSimulation	673	END	1576301286917	1576301286918
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286927
+USER	RecordedSimulation	674	START	1576301286927	1576301286927
+USER	RecordedSimulation	674	END	1576301286927	1576301286928
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286937
+USER	RecordedSimulation	675	START	1576301286937	1576301286937
+USER	RecordedSimulation	675	END	1576301286937	1576301286938
+ERROR	request_0: Failed to build request: No baseUrl defined but provided url is relative : /switch/price?number=9328654&time=2019-08-01 	1576301286948
+USER	RecordedSimulation	676	START	1576301286947	1576301286947
+USER	RecordedSimulation	676	END	1576301286947	1576301286948
+ERROR	
